@@ -5,6 +5,8 @@ BLE + ATMega Kit
 
 Meet BLEak - the BLE + ATMega Kit.  This is a board I'm building for a one-day workshop in San Francisco.  The board includes the NRF8001 + ATMega328-AUR (SMD, a'la Arduino SMD) and should include some basic SPI sensors / IO.  Existing Arduino SW libraries for the nrf8001 should work with BLEak.  The basis of the workshop is to show the transition from Arduino to a production PCB and BLEak is a nice narrative that mixes some simple wireless / RF with the ATMega in a module that just might be the prodcut someone is trying to build.  
 
+
+LICENSE + NOTES:  (PLEASE READ)
 This design is released under a Creative-Commons Share-alike, Attribution license.  You can use this design without needing to ask for permission from me.
 
 The designer (me, the guy typing this) is furnishing this item "as is". The design does not provide any warranty of the item whatsoever, whether express, implied, or statutory, including, but not limited to, any warranty of merchantability or fitness for a particular purpose or any warranty that the contents of the item will be error-free.
